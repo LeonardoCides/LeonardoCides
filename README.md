@@ -1,6 +1,6 @@
 #  Opa! Seja bem vindo ao meu perfil no Github
 ## Me chamo Leonardo, mas também conhecido como SystemAXL!
-Nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvimento web e hacking, gosto de estudar vulnerabilidades e desenvolver ferramentas.
+Tenho 17 anos e nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvimento web e hacking, gosto de estudar vulnerabilidades e desenvolver ferramentas.
 
 ## Estou Estudando
 
