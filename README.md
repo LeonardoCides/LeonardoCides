@@ -1,6 +1,6 @@
-# Opa! Sou o Leonardo, mas pode me chamar de AXL ⚡
+# Opa! Sou o Leonardo, mas conhecido por AXL ⚡
 
-Tenho 17 anos e passo boa parte do meu tempo entre o terminal do Linux e o VS Code. Sou aquele tipo de dev que não sossega enquanto não entende como as coisas funcionam por baixo dos panos, e, claro, como deixá-las mais seguras.
+Tenho 17 anos e passo boa parte do meu tempo entre o terminal do Linux e o VS Code. Sou aquele tipo de dev que não sossega enquanto não entende como as coisas funcionam, e, claro, como deixá-las mais seguras.
 
 Atualmente, estou estudando ecossistema Web e mundo da Cybersecurity. Gosto de criar ferramentas que resolvam problemas reais e, de quebra, estudar vulnerabilidades para aprender a construir sistemas blindados.
 
@@ -8,7 +8,7 @@ Atualmente, estou estudando ecossistema Web e mundo da Cybersecurity. Gosto de c
 
 ### 🚀 No que estou focado agora?
 * **Back-end & APIs:** Aperfeiçoando meu Node.js e começando a desbravar o Java.
-* **Security Research:** Brincando com ferramentas de hacking e entendendo padrões de ataque.
+* **Security Research:** Estudando ferramentas de hacking e entendendo padrões de ataque.
 * **Open Source:** Tentando retribuir um pouco para a comunidade que me ensina tanto.
 
 ---
